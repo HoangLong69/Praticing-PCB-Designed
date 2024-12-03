@@ -1,11 +1,11 @@
 # ARPoLAN
 Original schematic: [cifertech/ARPoLAN](https://github.com/cifertech/ARPoLAN)
 <div align="center">
-    <img src="Network scanning -ARP spoofing_Top layer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="1000">
+    <img src="Network scanning -ARP spoofing_Top layer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 <div align="center">
-    <img src="Network scanning -ARP spoofing_Bottom layer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="1000">
+    <img src="Network scanning -ARP spoofing_Bottom layer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 # nRF Box
