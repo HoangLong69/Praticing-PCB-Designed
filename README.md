@@ -19,7 +19,7 @@ Original schematic: [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
 </div>
 
 # INDOOR AIR QUALITY MONITORING AND CONTROL SYSTEM
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
     <img src="AIR QUALITY MONITORING AND CONTROL SYSTEM_Toplayer.png" 
          alt="Top Layer of System" 
          title="Top Layer of System" 
