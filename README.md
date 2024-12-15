@@ -17,3 +17,12 @@ Original schematic: [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
 <div align="center">
     <img src="nRF Box_Bottom layer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
+
+# INDOOR AIR QUALITY MONITORING AND CONTROL SYSTEM
+<div align="center">
+    <img src="AIR QUALITY MONITORING AND CONTROL SYSTEM_Toplayer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
+<div align="center">
+    <img src="AIR QUALITY MONITORING AND CONTROL SYSTEM_Bottomlayer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
