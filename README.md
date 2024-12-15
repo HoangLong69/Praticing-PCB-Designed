@@ -19,10 +19,13 @@ Original schematic: [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
 </div>
 
 # INDOOR AIR QUALITY MONITORING AND CONTROL SYSTEM
-<div align="center">
-    <img src="AIR QUALITY MONITORING AND CONTROL SYSTEM_Toplayer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
-</div>
-
-<div align="center">
-    <img src="AIR QUALITY MONITORING AND CONTROL SYSTEM_Bottomlayer.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="AIR QUALITY MONITORING AND CONTROL SYSTEM_Toplayer.png" 
+         alt="Top Layer of System" 
+         title="Top Layer of System" 
+         width="400">
+    <img src="AIR QUALITY MONITORING AND CONTROL SYSTEM_Bottomlayer.png" 
+         alt="Bottom Layer of System" 
+         title="Bottom Layer of System" 
+         width="400">
 </div>
