@@ -16,6 +16,15 @@
     <img src="SolderingStation3DTop.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
+# Multiple Power Supply
+<div align="center">
+    <img src="Multiple Power Supply 3D Bottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
+<div align="center">
+    <img src="Multiple Power Supply 3D Bottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
 # ARPoLAN
 Original schematic: [cifertech/ARPoLAN](https://github.com/cifertech/ARPoLAN)
 <div align="center">
