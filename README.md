@@ -16,6 +16,15 @@
     <img src="SolderingStation3DBottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
+# PCB Etching Machine
+<div align="center">
+    <img src="PCBEtchingMachine3DTop.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
+<div align="center">
+    <img src="PCBEtchingMachine3DBottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+</div>
+
 # Multiple Power Supply
 <div align="center">
     <img src="Multiple Power Supply 3D Top.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
