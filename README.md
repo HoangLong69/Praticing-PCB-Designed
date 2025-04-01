@@ -1,24 +1,24 @@
 # Telephone Landline
 <div align="center">
-    <img src="Telephone-3dBottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+    <img src="Telephone-3dTop.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 <div align="center">
-    <img src="Telephone-3dTop.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+    <img src="Telephone-3dBottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 # Soldering Station
 <div align="center">
-    <img src="SolderingStation3DBottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+    <img src="SolderingStation3DTop.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 <div align="center">
-    <img src="SolderingStation3DTop.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+    <img src="SolderingStation3DBottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 # Multiple Power Supply
 <div align="center">
-    <img src="Multiple Power Supply 3D Bottom.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
+    <img src="Multiple Power Supply 3D Top.png" alt="Smart Traffic Light System" title="Smart Traffic Light System" width="800">
 </div>
 
 <div align="center">
